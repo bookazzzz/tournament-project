@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Passageway';
+    src: url('../fonts/Passageway.otf');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Passageway';
+    src: url('../fonts/PassagewayBd.otf');
+    font-weight: 700;
+}
